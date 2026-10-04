@@ -27,12 +27,6 @@ const awan = {
 };
 ```
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gunawan-ly&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" />
-</p>
-
 ## 📊 Statistik
 
 <p align="center">
@@ -42,12 +36,6 @@ const awan = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunawan-ly&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&bg_color=0d1117" />
-</p>
-
-## 📈 Aktivitas
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gunawan-ly&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ## 🛠️ Tech Stack
