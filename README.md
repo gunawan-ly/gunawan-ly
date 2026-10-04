@@ -5,8 +5,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Kader+Posyandu+Desa+Wapalo+%F0%9F%8F%A5;Membangun+alat+digital+untuk+lapangan+%F0%9F%92%BB;AI+%C2%B7+Programming+%C2%B7+Prompt+Engineering+%F0%9F%A4%96;Vibe+Coding+Enthusiast+%E2%9A%A1" />
 
-<img src="https://komarev.com/ghpvc/?username=gunawan-ly" alt="profile views" />
-
 </div>
 
 ## `> whoami`
