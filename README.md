@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Halo%2C%20saya%20Awan%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Vibe%20Coder%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20Pembuat%20Aplikasi%20%26%20Game&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Halo%2C%20saya%20Awan%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Vibe%20Coder%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20Pembuat%20Aplikasi%20dan%20Game&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Membangun+Cloud+Talk%2C+aplikasi+voice+room+%F0%9F%8E%99%EF%B8%8F;Membuat+Fishing+Voyage%2C+game+mancing+pixel+%F0%9F%8E%A3;AI+%C2%B7+Programming+%C2%B7+Prompt+Engineering+%F0%9F%A4%96;Vibe+Coding+Enthusiast+%E2%9A%A1" />
 
