@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Halo%2C%20saya%20Awan%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Kader%20Posyandu%20%C2%B7%20Vibe%20Coder%20%C2%B7%20AI%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Halo%2C%20saya%20Awan%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Vibe%20Coder%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20Pembuat%20Aplikasi%20%26%20Game&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Kader+Posyandu+Desa+Wapalo+%F0%9F%8F%A5;Membangun+alat+digital+untuk+lapangan+%F0%9F%92%BB;AI+%C2%B7+Programming+%C2%B7+Prompt+Engineering+%F0%9F%A4%96;Vibe+Coding+Enthusiast+%E2%9A%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=620&lines=Membangun+Cloud+Talk%2C+aplikasi+voice+room+%F0%9F%8E%99%EF%B8%8F;Membuat+Fishing+Voyage%2C+game+mancing+pixel+%F0%9F%8E%A3;AI+%C2%B7+Programming+%C2%B7+Prompt+Engineering+%F0%9F%A4%96;Vibe+Coding+Enthusiast+%E2%9A%A1" />
 
 </div>
 
@@ -13,11 +13,11 @@
 const awan = {
   nama: "Awan",
   lokasi: "Gorontalo, Indonesia",
-  peran: "Kader Kesehatan Posyandu Desa Wapalo",
+  peran: "Vibe Coder · Pembuat Aplikasi & Game",
   fokus: [
-    "Sistem Informasi Posyandu",
-    "Kalkulator Status Gizi (standar WHO)",
-    "Rekap otomatis multi-sasaran",
+    "Cloud Talk (Flutter + Firebase)",
+    "Fishing Voyage (Godot)",
+    "Website Awan Store (Vue 3)",
   ],
   lagiBelajar: ["AI", "Programming", "Prompt Engineering"],
   target: "Jadi ahli AI",
@@ -62,15 +62,15 @@ const awan = {
 ## 📌 Proyek Pilihan
 
 <p align="center">
-  <a href="https://github.com/gunawan-ly/posyandu">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gunawan-ly&repo=posyandu&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <a href="https://github.com/gunawan-ly/fishing-voyage-code">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gunawan-ly&repo=fishing-voyage-code&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   </a>
   <a href="https://github.com/gunawan-ly/RDP-Awan">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gunawan-ly&repo=RDP-Awan&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   </a>
 </p>
 
-**[posyandu](https://github.com/gunawan-ly/posyandu)** — Sistem informasi posyandu digital: kalkulator status gizi anak (standar WHO, metode LMS), pencatatan kunjungan multi-sasaran, rekap bulanan & tahunan, ekspor Excel/PDF.
+**[Fishing Voyage](https://github.com/gunawan-ly/fishing-voyage-code)** — Game mancing pixel 2D (Godot): berlayar dulu baru mancing, sewa atau beli kapal, tangkapan buat dijual atau dikoleksi.
 
 **[RDP-Awan](https://github.com/gunawan-ly/RDP-Awan)** — Akses RDP privat via Tailscale. Tanpa public IP, tanpa port-forwarding, tanpa membuka port 3389 ke internet.
 
